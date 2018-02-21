@@ -1,4 +1,4 @@
-# sspk
+# Chainage
 
 [![Build Status](https://travis-ci.org/e-henry/chainage.svg?branch=master)](https://travis-ci.org/e-henry/chainage)
 
